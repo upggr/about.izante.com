@@ -84,6 +84,15 @@
 					<p>working on it</p>
 				</div> <!-- cd-faq-content -->
 			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Αν τα σπασουμε, τι συμβαινει με την ιστοσελιδα?</a>
+				<div class="cd-faq-content">
+					<p>working on it</p>
+				</div> <!-- cd-faq-content -->
+			</li>
+
+
 		</ul> <!-- cd-faq-group -->
 
 		<ul id="pricing" class="cd-faq-group">
@@ -142,12 +151,6 @@
 				</div> <!-- cd-faq-content -->
 			</li>
 
-			<li>
-				<a class="cd-faq-trigger" href="#0">How can I control if other search engines can link to my profile?</a>
-				<div class="cd-faq-content">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis eos tenetur magni debitis inventore fugit, magnam, reiciendis, saepe obcaecati ex vero quaerat distinctio velit.</p>
-				</div> <!-- cd-faq-content -->
-			</li>
 		</ul> <!-- cd-faq-group -->
 
 	</div> <!-- cd-faq-items -->
