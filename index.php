@@ -19,7 +19,7 @@
 	<ul class="cd-faq-categories">
 		<li><a class="selected" href="#basics">Γενικα</a></li>
 		<li><a href="#services">Υπηρεσιες</a></li>
-		<li><a href="#account">Τιμοκαταλογος</a></li>
+		<li><a href="#pricing">Τιμοκαταλογος</a></li>
 		<li><a href="#contact">Επικοινωνια</a></li>
 	</ul> <!-- cd-faq-categories -->
 
