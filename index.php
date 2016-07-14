@@ -110,6 +110,17 @@
 
 				</div> <!-- cd-faq-content -->
 			</li>
+
+			<li>
+				<a class="cd-faq-trigger" href="#0">Τι ειναι το δυκτιο συνεργατων σας? </a>
+				<div class="cd-faq-content">
+
+					εδω θα ειναι λιστα με εξτρα υπηρεσιες και ποιος τις παρεχει
+
+				</div> <!-- cd-faq-content -->
+			</li>
+
+
 			<li>
 				<a class="cd-faq-trigger" href="#0">Τι εργαλεια χρησιμοποιητε?</a>
 				<div class="cd-faq-content">
