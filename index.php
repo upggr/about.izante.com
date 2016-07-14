@@ -81,7 +81,7 @@
 		<ul id="services" class="cd-faq-group">
 			<li class="cd-faq-title"><h2>Υπηρεσιες</h2></li>
 			<li>
-				<a class="cd-faq-trigger" href="#0">Εχω μια βιλα/συμπλεγμα με βιλες, τι υπηρεσιες προσφερετε σε εμενα?</a>
+				<a class="cd-faq-trigger" href="#0">Εχω μια βιλα/συμπλεγμα με βιλες, τι υπηρεσιες μπορειτε να μου προσφερετε?</a>
 				<div class="cd-faq-content">
 					<p>Οι βασικες υπηρεσιες που προσφερουμε ειναι οι εξης :
 
